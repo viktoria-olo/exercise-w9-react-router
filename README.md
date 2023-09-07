@@ -8,6 +8,16 @@
 
 Welcome to this lesson's exercise! We'll be diving into react-router-dom and harnessing the useParams() hook.
 
+## Using this repository
+
+Once cloned, navigate to the project's root directory and this project uses npm (Node Package Manager) to manage its dependencies.
+
+The below command is a combination of installing dependencies, opening up the project on VS Code and it will run a development server on your terminal.
+
+```bash
+npm i && code . && npm run dev
+```
+
 ## Overview
 
 You'll be working with a songs.json file, which contains a "songs" key. This key holds an array of the Rolling Stones' 500 best songs. Each song object has details like rank, title, artist, album, and year.
