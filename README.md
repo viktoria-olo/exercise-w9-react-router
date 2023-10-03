@@ -22,7 +22,7 @@ npm i && code . && npm run dev
 
 You'll be working with a songs.json file, which contains a "songs" key. This key holds an array of the Rolling Stones' 500 best songs. Each song object has details like rank, title, artist, album, and year.
 
-## Objective
+## Requirements
 
 - Fetch and display song titles on the homepage.
 - Use the song's title as a key to create dynamic routes. For instance, if a song's title is "Imagine", the route should be /song/imagine.
