@@ -6,7 +6,7 @@
 
 # React Router Exercise: Rolling Stones' Top 500 Songs
 
-Welcome to this lesson's exercise! We'll be diving into react-router-dom and harnessing the useParams() hook.
+We'll be diving into react-router-dom and harnessing the useParams() hook.
 
 ## Using this repository
 
@@ -34,7 +34,7 @@ Always use the song's title key to generate the dynamic route for each song's de
 
 ## Looking for some hints?
 
-While working on the exercise, students should pay close attention to how data is passed between components and how dynamic routes are set up and utilized. Understanding the flow of data and the structure of routes will be key to successfully completing the exercise.
+Pay close attention to how data is passed between components and how dynamic routes are set up and utilized. Understanding the flow of data and the structure of routes will be key to successfully completing the exercise.
 
 Lets take a look at the following components.
 
